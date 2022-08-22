@@ -1,0 +1,2 @@
+filter_laser_scans:turtle_commander
+-DCATKIN_DEVEL_PREFIX=/home/anton/self-driving-course/devel -DCMAKE_INSTALL_PREFIX=/home/anton/self-driving-course/install -G Unix Makefiles

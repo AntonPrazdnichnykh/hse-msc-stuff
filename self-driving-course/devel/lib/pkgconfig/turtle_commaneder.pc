@@ -1,0 +1,8 @@
+prefix=/home/anton/self-driving-course/devel
+
+Name: turtle_commaneder
+Description: Description of turtle_commaneder
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

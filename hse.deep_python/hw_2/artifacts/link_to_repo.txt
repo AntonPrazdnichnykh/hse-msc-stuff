@@ -1,0 +1,1 @@
+https://test.pypi.org/project/python-hw-1-package-StrangeAttractor/0.0.1/

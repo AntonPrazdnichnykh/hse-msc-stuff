@@ -1,0 +1,10 @@
+torch==1.9.0
+transformers
+rutimeparser
+deeppavlov
+natasha
+pymorphy2
+nltk
+PyTelegramBotAPI
+
+#python -m deeppavlov install squad_zh_bert_zh
